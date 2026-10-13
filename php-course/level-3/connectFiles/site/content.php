@@ -1,4 +1,0 @@
-<?php
-
-?>
-    <td><?= $content ?></td>
