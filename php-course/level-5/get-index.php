@@ -7,7 +7,7 @@
     <title>Форма входа</title>
 </head>
 <body>
-<form action="/level-5/login.php" method="get">
+<form action="get-login.php" method="get">
     <label>
         Логин <input type="text" name="login">
     </label>
